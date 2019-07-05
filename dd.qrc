@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/back_disable.png</file>
+        <file>img/back_hover.png</file>
+        <file>img/back_normal.png</file>
+        <file>img/back_pressed.png</file>
+        <file>img/carousel_1.png</file>
+        <file>img/carousel_2.png</file>
+        <file>img/carousel_3.png</file>
+        <file>img/close_frame_hover.png</file>
+        <file>img/close_frame_normal.png</file>
+        <file>img/close_frame_pressed.png</file>
+        <file>img/delete.png</file>
+        <file>img/doc.png</file>
+        <file>img/footer_1.png</file>
+        <file>img/footer_2.png</file>
+        <file>img/footer_3.png</file>
+        <file>img/footer_4.png</file>
+        <file>img/pdf.png</file>
+        <file>img/ppt.png</file>
+        <file>img/theme.png</file>
+        <file>img/xsl.png</file>
+        <file>img/128.png</file>
+        <file>favicon.ico</file>
+        <file>img/account.png</file>
+        <file>img/password.png</file>
+    </qresource>
+</RCC>
