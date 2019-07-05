@@ -12,14 +12,14 @@ tags:
 * DDN社区: [DDN官网](http://ddn.link/)
 
 # 基于QtQuick的DDN加密货币的区块浏览器客户端
-![DDN-green](http://qtddui.b0.upaiyun.com/gitdir/green.png)
-![DDN-green0](http://qtddui.b0.upaiyun.com/gitdir/green2.png)
-![DDN-green1](http://qtddui.b0.upaiyun.com/gitdir/green3.png)
-![DDN-green2](http://qtddui.b0.upaiyun.com/gitdir/light.png)
-![DDN-green3](http://qtddui.b0.upaiyun.com/gitdir/light2.png)
-![DDN-green4](http://qtddui.b0.upaiyun.com/gitdir/light3.png)
-![DDN-green5](http://qtddui.b0.upaiyun.com/gitdir/dark.png)
-![DDN-green6](http://qtddui.b0.upaiyun.com/gitdir/blue.png)
+![DDN-green](http://ddui.heilqt.com/gitdir/green.png)
+![DDN-green0](http://ddui.heilqt.com/gitdir/green2.png)
+![DDN-green1](http://ddui.heilqt.com/gitdir/green3.png)
+![DDN-green2](http://ddui.heilqt.com/gitdir/light1.png)
+![DDN-green3](http://ddui.heilqt.com/gitdir/light2.png)
+![DDN-green4](http://ddui.heilqt.com/gitdir/light3.png)
+![DDN-green5](http://ddui.heilqt.com/gitdir/dark.png)
+![DDN-green6](http://ddui.heilqt.com/gitdir/blue.png)
 
 
 * 可以浏览最近产生的区块
@@ -42,7 +42,7 @@ tags:
 * QQ: 373955953
 * QQ群:312125701[多多指教Qt/QML社区]
 * github: [@寒山-居士](https://github.com/toby20130333)
-* [DDN区块链浏览器下载地址](http://qtddui.b0.upaiyun.com/gitdir/DDN-Client-0.0.0.1.zip)
+* [DDN区块链浏览器下载地址](http://ddui.heilqt.com/gitdir/DDN-Client-0.0.0.1.zip)
 
 ## 关于作者
 
